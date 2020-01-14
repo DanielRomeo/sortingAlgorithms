@@ -1,3 +1,5 @@
+<?php echo "hello world"; ?>
+
 <!doctype html>
 <html lang="en">
   <head>
